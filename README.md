@@ -2,7 +2,7 @@
 ---
 Progress Tracker Widget is a Work-In-Progress Android App developed in Java and XML using the Android Studio.
 
-<img src=""/>
+
 
 It's an app designed to show how much and how often a user has committed to a certain task, in the style of the github contribution tracker shown on profile pages. It will in future have a on the home screen as a widget.
 ---
